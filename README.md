@@ -1,9 +1,9 @@
 # Cost Optimization through k-Means Clustering of Cost Drivers
 
-This project implements a PyTorch-based k-Means clustering solution for identifying cost driver patterns in industrial settings. The framework automatically groups similar cost factors, enabling targeted optimization strategies. The implementation features a complete pipeline from synthetic data generation to animated visualization of the clustering process, providing intuitive insights into how cost drivers naturally form clusters in high-dimensional spaces. The animation showcases the iterative centroid optimization process, making the algorithm's behavior transparent and interpretable for cost analysis applications.
+This project implements a PyTorch-based k-means clustering solution for identifying cost driver patterns in industrial settings. The framework automatically groups similar cost factors, enabling targeted optimization strategies. The implementation features a complete pipeline from synthetic data generation to animated visualization of the clustering process, providing intuitive insights into how cost drivers naturally form clusters in high-dimensional spaces. The animation showcases the iterative centroid optimization process, making the algorithm's behavior transparent and interpretable for cost analysis applications.
 
 <p align="center">
-  <img src="kmeans_clustering.gif" width="600" height="300" alt="til">
+  <img src="kmeans_clustering_1.gif" width="600" height="300" alt="til">
 </p>
 
 ---
